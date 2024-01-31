@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 
 /**
- * Класс PolikarpovaApplication, запуск Spring Boot
+ * Класс PonomarenkoApplication, запуск Spring Boot
  */
 
 public class PonomarenkoApplication {
